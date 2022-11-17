@@ -1,0 +1,19 @@
+form{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+input{
+    outline: none;
+    height: 25px;
+    padding: 5px;
+    margin: 5px;
+    width: 200px;
+    margin: auto;
+    cursor: pointer;
+}
+
+.btn:hover{
+    background-color: teal;
+}
