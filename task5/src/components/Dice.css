@@ -1,0 +1,16 @@
+.dice {
+    width: 70px;
+    height: 70px;
+    background-color: teal;
+    text-align: center;
+    padding-top: 25px;
+    box-sizing: border-box;
+    font-size: 20px;
+    color:white ;
+    margin-bottom: 20px;
+  }
+  .app {
+    display: flex;
+    justify-content: center;
+  }
+  
